@@ -1,0 +1,49 @@
+.all {
+    background: lightgray;
+    margin: 50px auto;
+    border-radius: 10px;
+    height: 430px;
+    width: 300px;
+    padding: 15px;
+}
+
+.name {
+    text-align: center;
+    color: black;
+    font-size: 22px;
+    margin-bottom: 15px;
+}
+
+.screen {
+    width: 95%;
+    height: 40px;
+    margin: 10px auto;
+    font-size: 20px;
+    padding: 5px;
+    border: 1px solid gray;
+    border-radius: 5px;
+}
+
+.cal {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 8px;
+    margin-top: 15px;
+}
+
+.btn {
+    padding: 15px;
+    font-size: 18px;
+    border: 1px solid gray;
+    border-radius: 5px;
+    background: white;
+    cursor: pointer;
+}
+
+.btn:hover {
+    background: lightblue;
+}
+
+.btn:last-child {
+    background: lightgreen;
+}

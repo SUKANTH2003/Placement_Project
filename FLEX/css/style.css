@@ -1,0 +1,146 @@
+body{
+    background-color: rgb(0, 0, 0);
+    text-align: center;
+    font-size: 20px;   
+}
+.company1 img{
+    width: 200px;
+    margin-left: 50px;
+    margin-right: 50px;
+    border-radius: 10px;
+}
+.company3 img{
+    width: 200px;
+    margin-left: 50px;
+    margin-right: 50px;
+    border-radius: 10px;
+}
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.company1{
+    background-color: beige;
+    justify-content: space-around;
+    display: flex;
+    padding: 20px;
+    border-radius: 30px;        
+}
+.company1_image{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+    border-radius: 10px;
+}
+.company1_details{
+    margin-top: 70px;
+    margin-bottom: 50px;
+    margin-left: 50px;
+    margin-right: 70px;
+}
+.link
+{
+    margin-top: 10px;
+}
+.company1_video video{
+    width: 500px;
+    height: 300px;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    border-radius: 30px;
+}
+.company2{
+    background-color: aquamarine;
+    justify-content: space-around;
+    display: flex;
+    padding: 20px;
+    border-radius: 20px;
+    margin-top: 20px;  
+}
+.company2_image {
+    margin-top: 10px;
+    margin-bottom: 50px;
+    margin-left: 50px; 
+    border-radius: 10px;                     
+}
+.company2_detail{
+    margin-top: 50px;
+    margin-left: 100px;
+    margin-right: 70px;
+}
+.company2_video video{
+    width: 500px;
+    height: 300px;
+    border-radius: 10px;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    border-radius: 30px;
+}
+.company2_image img{
+    border-radius: 10px;
+}
+
+.company3{
+    background-color: beige;
+    justify-content: space-around;
+    display: flex;
+    padding: 20px;
+    border-radius: 30px;        
+}
+.company3_image{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+    border-radius: 10px;
+}
+.company3_details{
+    margin-top: 70px;
+    margin-bottom: 50px;
+    margin-left: 50px;
+    margin-right: 70px;
+}
+.company3_video video{
+    width: 500px;
+    height: 300px;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    border-radius: 30px;
+}
+
+.company4{
+    background-color: aquamarine;
+    justify-content: space-around;
+    display: flex;
+    padding: 20px;
+    border-radius: 20px;
+    margin-top: 20px;  
+}
+.company4_image {
+    margin-top: 10px;
+    margin-bottom: 50px;
+    margin-left: 50px; 
+    border-radius: 10px;                     
+}
+.company4_detail{
+    margin-top: 50px;
+    margin-left: 100px;
+    margin-right: 70px;
+}
+.company4_video video{
+    width: 500px;
+    height: 300px;
+    border-radius: 10px;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    border-radius: 30px;
+}
+.company4_image img{
+    border-radius: 10px;
+}
+
+p{
+    text-align:justify;
+}
